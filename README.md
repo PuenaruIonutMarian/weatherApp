@@ -8,7 +8,7 @@ This is a simple weather app built with React. It allows you to search for the w
 
 * Search for the weather in a specific city
 * Displays the current weather
-* Displays a 5-day forecast
+* Displays a 7-day forecast
 
 ## Built With
 
